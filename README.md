@@ -9,7 +9,7 @@ Watch TV With You
 
 1. 你需要找一台服务器，把这个代码跑起来
 2. 客户端是需要支持油猴插件的，比如chrome浏览器
-3. 安装我写的脚本，地址是：
+3. 安装我写的脚本，地址是：https://greasyfork.org/zh-CN/scripts/421174-watch-tv-with-you
 4. 修改脚本中`websockerServerUrl`地址
 5. 和你的好朋友一起看电视吧
 
