@@ -1,0 +1,8 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /wtwu
+  tomcat:
+    uri-encoding: utf-8
+    max-connections: 10000
+    connection-timeout: 20000
